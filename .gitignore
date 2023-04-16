@@ -1,0 +1,4 @@
+//We will place the node-modules and any other files that we want to ignore into this file
+//This way the source control won't push it into the git repo as the node modules file is really large 
+
+/node_modules 
